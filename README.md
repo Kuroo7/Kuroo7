@@ -1,7 +1,7 @@
-# Mohd.-Atif
-## Hi, I am Nitish! Great to see you here! 👋
 
-I am Nitish Tiwari, Techinical(Blockchain and DevOps) content writer at code8.I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+## Hi, I am Atif Great to see you here! 👋
+
+I am Mohammad Atif Shameem Khan, Techinical(Blockchain and DevOps) content writer at code8.I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nitishupkr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Nitishupkr/)](https://www.linkedin.com/in/nitish-tiwari-532388216/)
 [![Instagram Badge](https://img.shields.io/badge/-Nitish.Tiwari-purple?style=flat-square&logo=instagram&logoColor=white&link=https:///)]()
