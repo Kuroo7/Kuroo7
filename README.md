@@ -9,7 +9,7 @@ I am Mohammad Atif Shameem Khan, Techinical(Blockchain and DevOps) content write
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://https://github.com/Nitishupkr//)](https://github.com/Nitishupkr/) -->
 <!-- [![Youtube Badge](https://img.shields.io/badge/-Nitish%20Tiwari-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCqPf0GAkcCf9L4Ff3paMpbQ)](https://www.youtube.com/channel/UCqPf0GAkcCf9L4Ff3paMpbQ) -->
 
-[![Nitish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nitishupkr&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kuroo7&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
