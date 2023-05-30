@@ -9,7 +9,7 @@ I am Mohammad Atif Shameem Khan, Techinical(Blockchain and DevOps) content write
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://https://github.com/Nitishupkr//)](https://github.com/Nitishupkr/) -->
 <!-- [![Youtube Badge](https://img.shields.io/badge/-Nitish%20Tiwari-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCqPf0GAkcCf9L4Ff3paMpbQ)](https://www.youtube.com/channel/UCqPf0GAkcCf9L4Ff3paMpbQ) -->
 
-[![Atif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kuroo7&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Atif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kuroo7&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## ⚡ Technologies
 
@@ -61,6 +61,6 @@ I am Mohammad Atif Shameem Khan, Techinical(Blockchain and DevOps) content write
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitishupkr&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishupkr&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kuroo7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuroo7&theme=tokyonight" />
 </p>
